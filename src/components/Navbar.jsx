@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import '../mystyles.css'
 import '../home.css'
 import SearchIcon from '@mui/icons-material/Search';
-import Select from './Dropdown/select';
+import Select from './Dropdown/Select';
 import Login from './Login';
 import { NavLink } from 'react-router-dom';
 import { Link } from "react-router-dom";
